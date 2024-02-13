@@ -7,10 +7,10 @@ p:first-child {
     background-color: black;
 }
 p:nth-child(2){
-  color:blue;
+ color:rgb(0, 0, 0);
 }
 p:last-child{
- color:red;	
+ 	color:red;
 }
 li{
 	background-color:gray;
